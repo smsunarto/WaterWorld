@@ -74,7 +74,7 @@ public class IslandProvider implements ConfigurableFacetProvider {
     }
 
     private static class IslandConfiguration implements Component {
-        @Range(min = 200, max = 500f, increment = 20f, precision = 1, description = "Mountain Height")
-        private float islandHeight = 400;
+        @Range(min = 100, max = 500f, increment = 20f, precision = 1, description = "Island Height")
+        private float islandHeight = 200;
     }
 }
