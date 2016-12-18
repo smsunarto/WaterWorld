@@ -1,9 +1,0 @@
-{
-    "id" : "WaterWorld",
-    "version" : "0.1.0-SNAPSHOT",
-    "author" : "smsunarto",
-    "displayName" : "Water World",
-    "description" : "A Water World Generator",
-    "dependencies" : [],
-    "serverSideOnly" : false
-}
