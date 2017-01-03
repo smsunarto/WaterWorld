@@ -40,9 +40,6 @@ public class WaterWorldGenerator extends BaseFacetedWorldGenerator {
                 .addProvider(new SurfaceProvider())
                 .addProvider(new IslandProvider())
                 .addProvider(new SeaProvider())
-                .addProvider(new CaveFacetProvider())
-                .addProvider(new CaveToDensityProvider())
-                .addRasterizer(new CaveRasterizer())
                 .addRasterizer(new SeaRasterizer())
                 .addRasterizer(new WaterWorldRasterizer())
                 .addPlugins();

@@ -4,6 +4,18 @@
     "author" : "smsunarto",
     "displayName" : "Water World",
     "description" : "A Water World Generator",
-    "dependencies" : [],
+    "dependencies" : [
+                          {
+                              "id" : "Core",
+                              "minVersion" : "1.0.0"
+                          },
+                          {
+                              "id" : "Caves",
+                              "minVersion" : "1.0.0"
+                          },
+                          {
+                              "id" : "OreGeneration",
+                              "minVersion" : "1.0.0"
+                          }],
     "serverSideOnly" : false
 }
