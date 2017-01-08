@@ -14,7 +14,7 @@
                               "minVersion" : "1.0.0"
                           },
                           {
-                              "id" : "OreGeneration",
+                              "id" : "SmallPlants",
                               "minVersion" : "1.0.0"
                           }],
     "serverSideOnly" : false
